@@ -1,0 +1,57 @@
+h1{
+   color:deeppink;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #dcdc14;
+    font-family: 'Dancing Script', cursive;
+}
+h2{
+     color: darkmagenta;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+    font-family: 'Dancing Script', cursive;
+}
+.profile{
+    width:200px;
+    border-radius: 50%;
+}
+body{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+#welcome{
+    height: 600px;
+    background: linear-gradient(#c9f007 0%,#f0078f 100%);
+    z-index: 9;
+}
+.menu{
+    list-style:none;
+    font-family: fantasy;
+    color: blueviolet;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    font-family: 'Dancing Script', cursive;
+}
+.links{
+    float: left;
+    color: chocolate;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.links:hover{
+    background-color: blue;
+    font-size: 18px;
+}
+.article:hover{
+color: cornflowerblue;
+    font-size: 25px;
+}
+#Contact{
+    background-color: coral;
+    
+}
